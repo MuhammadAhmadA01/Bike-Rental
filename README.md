@@ -7,17 +7,12 @@ The Bike Rental Management System is a web application designed to streamline th
 - **User Authentication:** Secure user authentication system for both customers and administrators.
 - **Bike Booking:** Customers can browse available bikes, select rental dates, and make bookings.
 - **Admin Dashboard:** Admins have access to a dashboard where they can manage bikes, view bookings, and update rental details.
-- **Payment Integration:** Integration with a payment gateway for secure online payments.
 - **Inventory Management:** Automatic updating of bike availability based on bookings and returns.
 - **Email Notifications:** Automated email notifications for booking confirmations, reminders, and rental updates.
 
 ## Technologies Used
 
-- **Frontend:** React.js, Redux, Material-UI
-- **Backend:** Node.js, Express.js, MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
-- **Payment Gateway:** Stripe
-- **Deployment:** Heroku (Backend), Netlify (Frontend)
+- **Tech:** React.js, Redux, Material-UI, Firebase
 
 ## Getting Started
 
